@@ -1,4 +1,8 @@
-﻿using System;
+/* Program that takes a file path as a command line argument. It reads
+the file and finds all numbers with a decimal point in them. It then 
+outputs the sum of all the numbers in the file that contain a decimal point */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
