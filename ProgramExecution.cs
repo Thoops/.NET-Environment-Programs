@@ -1,4 +1,8 @@
-﻿using System;
+/* Program that takes a series program names as its command line arguments.
+The goal is to make sure that these programs are always executing. So, if 
+they die, the program will restart them. */
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
