@@ -1,3 +1,7 @@
+/*Program which allows the user to enter a directory name and 
+date as command-line arguments and display all those files that have been changed on or
+after the given date.*/
+
 using System;
 using System.IO;
 using System.Collections.Generic;
