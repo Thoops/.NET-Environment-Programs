@@ -1,4 +1,8 @@
-﻿using System;
+/* Program which allows the user to request the number of prime numbers 
+between 2 and a user supplied value. It displays the result in a list box.  
+It has two buttons. One to start the calculation and the other to cancel it. */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
